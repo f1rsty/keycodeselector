@@ -1,0 +1,18 @@
+body {
+    color: rgb(139, 197, 216);
+}
+
+#content-wrapper {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+}
+
+#text {
+    color: #141414;
+    opacity: 0.9;
+    font-size: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
